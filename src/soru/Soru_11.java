@@ -1,5 +1,5 @@
 package soru;
-//Arda Mavi - ardamavi.com  
+ 
 
 import java.util.Scanner;  
 
